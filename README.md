@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @13eav1s
-- 👀 I’m interested in Python, C++
-- 🌱 I’m currently learning Django, PyQt
-- 📫 my email krasnovleonid2003@gmail.com
+- 👋 Hi, I’m Krasnov Leonid
+- 👀 I’m interested in Python, C++.
+- 🌱 I’m currently learning Django, PyQt.
+- 📫 my email is krasnovleonid2003@gmail.com
