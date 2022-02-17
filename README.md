@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Krasnov Leonid
+- 👋 Hi, I’m Leonid
 - 👀 I’m interested in Python, C++.
 - 🌱 I’m currently learning Django, PyQt.
 - 📫 my email is krasnovleonid2003@gmail.com
