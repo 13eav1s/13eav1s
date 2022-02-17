@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @13eav1s
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me no way
+- 👀 I’m interested in Python, C++
+- 🌱 I’m currently learning Django, PyQt
+- 📫 me email krasnovleonid2003@gmail.com
